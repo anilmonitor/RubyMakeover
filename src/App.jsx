@@ -124,7 +124,6 @@ function App() {
             {[
               '/mywork/p2.jpeg',
               '/mywork/p3.jpeg',
-              '/mywork/p4.jpeg',
               '/mywork/p5.jpeg',
               '/mywork/p6.jpeg',
               '/mywork/p7.jpeg',
